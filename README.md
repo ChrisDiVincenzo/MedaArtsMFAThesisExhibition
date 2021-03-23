@@ -7,6 +7,11 @@ _Open from 3/19/2021 - 3/30/2021_
 
 ![cbcb1a21-1db7-4ec4-a6f6-dcf469edb0b0.jpg]({{site.baseurl}}/cbcb1a21-1db7-4ec4-a6f6-dcf469edb0b0.jpg)
 
+![bio.jpg]({{site.baseurl}}/bio.jpg)
+
+
+
+
 [Jake Frisbie](https://www.instagram.com/jakefrisbie/)
 
 [Samie Bartul](https://chrisdivincenzo.github.io/Joan/)
