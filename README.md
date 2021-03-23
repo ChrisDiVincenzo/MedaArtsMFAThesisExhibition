@@ -9,8 +9,7 @@ _Open from 3/19/2021 - 3/30/2021_
 
 ![bio.jpg]({{site.baseurl}}/bio.jpg)
 
-
-
+![statements1.jpg]({{site.baseurl}}/statements1.jpg)
 
 [Jake Frisbie](https://www.instagram.com/jakefrisbie/)
 
