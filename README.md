@@ -1,6 +1,6 @@
 # MediaArtsMFAThesisExhibition
 
-## Email mediaarts@gmail.com to make an appointment to see the show at the MAASS Gallery. 
+## Email mediaartsmfa@gmail.com to make an appointment to see the show at the MAASS Gallery. 
 _Open from 3/19/2021 - 3/30/2021_
 
 ![bio.jpg]({{site.baseurl}}/bio.jpg)
