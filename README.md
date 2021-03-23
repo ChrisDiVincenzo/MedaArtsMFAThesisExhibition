@@ -7,8 +7,8 @@ _Open from 3/19/2021 - 3/30/2021_
 
 ![statements1.jpg]({{site.baseurl}}/statements1.jpg)
 
-[Jake Frisbie](https://www.instagram.com/jakefrisbie/)
-
 [Samie Bartul](https://chrisdivincenzo.github.io/Joan/)
 
 [Chris Di Vincenzo](https://chrisdivincenzo.github.io/Thesis/)
+
+[Jake Frisbie](https://www.instagram.com/jakefrisbie/)
